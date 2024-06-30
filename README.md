@@ -1,18 +1,22 @@
 # All hail Shonky!
 
-Shonky is the best shonk mascot for [Blåhaj Lemmy](https://lemmy.blahaj.zone).
+Shonky (they/them) is the best shonk mascot for [Blåhaj Lemmy](https://lemmy.blahaj.zone).
 
 ![Shonky](assets/icons/Shonky-96px.png)
 
+Shonky enjoys a good time, swimming around, swinging on ceiling fans, snuggling up in bed and just generally banging away on their keyboard at Blåhaj Lemmy.
+
+Their likeness is available for promotional work per the terms of the [design copyright and license](#design-copyright-and-license) below.
+
 ## Design copyright and license
 
-The logo was designed under commission for Blåhaj Lemmy by and is copyright [Heatherhorns](https://heatherhorns.com).
+The logo was designed under commission for Blåhaj Lemmy by and is copyright [Heatherhorns](https://heatherhorns.com), used under license by the Blåhaj zone team.
 
-The logo is a trademark and may be used under a good-faith license when referring to the Blåhaj Lemmy site, but not in a way that is malicious or suggests you are endorsed by or a product of Heatherhorns or Blåhaj zone.
+The logo is our trademark and may be used by you under a good-faith license when referring to the Blåhaj Lemmy site, but not in a way that is malicious or suggests you are endorsed by or a product of Heatherhorns or Blåhaj zone.
 
-If the logo is misused or used in a non-good-faith way, your license may be revoked.
+If the logo is misused or not used in a good-faith way, your license is revoked.
 
-Attribution may be given by linking back to this repository.
+Attribution may be given by linking back to this repository or the main Blåhaj Lemmy site, but is generally not required as long as it's clear you're referring to the Blåhaj Lemmy site.
 
 ## Style
 
